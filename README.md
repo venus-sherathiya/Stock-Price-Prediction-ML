@@ -15,4 +15,5 @@ The plot for actual and predicted values is as follows
 ![alt text](https://github.com/venus-sherathiya/Stock-Price-Prediction-ML/blob/master/results_img.png)
 
 Train Score: 0.00001 MSE (0.00 RMSE)
+
 Test Score: 0.00028 MSE (0.02 RMSE)
