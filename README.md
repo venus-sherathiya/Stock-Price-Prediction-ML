@@ -12,7 +12,7 @@ All the information regarding the LSTM and how data is collected and cleaned can
 [Stock_price_prediction_using_LSTM.ipynb](https://github.com/venus-sherathiya/Stock-Price-Prediction-ML/blob/master/Stock_price_prediction_using_LSTM.ipynb)
 
 The plot for actual and predicted values is as follows
-![alt text](https://github.com/venus-sherathiya/Stock-Price-Prediction-ML/blob/master/results_image.png)
+![alt text](https://github.com/venus-sherathiya/Stock-Price-Prediction-ML/blob/master/results_img.png)
 
 Train Score: 0.00002 MSE
 
